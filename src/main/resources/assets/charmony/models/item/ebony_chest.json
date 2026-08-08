@@ -1,0 +1,6 @@
+﻿{
+    "textures":  {
+                     "particle":  "charmony:block/ebony_planks"
+                 },
+    "parent":  "builtin/entity"
+}

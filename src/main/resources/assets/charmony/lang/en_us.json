@@ -44,5 +44,7 @@
     "item.charmony.stripped_ebony_wood":  "Stripped Ebony Wood",
     "tag.item.charmony.ebony_logs":  "Ebony Logs",
     "block.charmony.ebony_chest":  "Ebony Chest",
-    "item.charmony.ebony_chest":  "Ebony Chest"
+    "item.charmony.ebony_chest":  "Ebony Chest",
+    "block.charmony.trapped_ebony_chest":  "Ebony Trapped Chest",
+    "item.charmony.trapped_ebony_chest":  "Ebony Trapped Chest"
 }

@@ -56,6 +56,7 @@ public class Registers extends Setup<EbonyWood> {
         sapling = woodRegistry.sapling(ebony);
         trapdoor = woodRegistry.trapdoor(ebony);
 
+        woodRegistry.barrel(ebony);
         woodRegistry.boat(ebony);
         woodRegistry.button(ebony);
         woodRegistry.fence(ebony);

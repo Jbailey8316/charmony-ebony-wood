@@ -61,6 +61,7 @@ public class Registers extends Setup<EbonyWood> {
         woodRegistry.barrel(ebony);
         woodRegistry.bookshelf(ebony);
         woodRegistry.chiseledBookshelf(ebony);
+        woodRegistry.shelf(ebony);
         woodRegistry.ladder(ebony);
         woodRegistry.boat(ebony);
         woodRegistry.button(ebony);
